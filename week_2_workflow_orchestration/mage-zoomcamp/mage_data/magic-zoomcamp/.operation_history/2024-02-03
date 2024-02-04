@@ -1,0 +1,6 @@
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "relaxed_inventor"}, "timestamp": 1706942285, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "golden_cedar"}, "timestamp": 1706942430, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "masterful_song"}, "timestamp": 1706945755, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "noble_crystal"}, "timestamp": 1706952523, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "mystic_dew"}, "timestamp": 1706954648, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "load_nyc_taxi_data_copy"}, "timestamp": 1706954662, "user": null}
