@@ -90,7 +90,7 @@ settings:
 spark_config: {}
 tags: []
 type: python
-updated_at: '2024-02-04T09:17:12+00:00'
+updated_at: '2024-02-14 13:56:26'
 uuid: load_nyc_taxi_data
 variables_dir: /home/src/mage_data/magic-zoomcamp
 widgets: []
